@@ -14,9 +14,6 @@ Bu uygulama, OpenWeatherMap API kullanarak hava durumu bilgilerini görüntüley
   - Nem oranı
   - Rüzgar hızı
 
-## Ekran Görüntüleri
-[Eğer ekran görüntüleri varsa buraya ekleyebilirsiniz]
-
 ## Başlarken
 
 ### Gereksinimler
@@ -64,6 +61,3 @@ flutter run
 ## Lisans
 MIT Lisansı ile dağıtılmaktadır.
 
-## İletişim
-- Proje Linki: [GitHub Repo Linki]
-- Kişisel Web Sitesi: [Varsa kişisel web site]
