@@ -24,7 +24,7 @@ Bu uygulama, OpenWeatherMap API kullanarak hava durumu bilgilerini görüntüley
 ### Kurulum
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/kullanici_adi/weather_app.git
+git clone https://github.com/alierenozgenn/FlutterWeatherApp.git
 cd weather_app
 ```
 
